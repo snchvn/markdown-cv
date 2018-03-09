@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: San Karunanithy
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# San Karunanithy
+Digital designer, product developer, creative technologist, marketing strategist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="san@san.is">san@san.is</a>
+| <a href="http://san.is">My Website</a>
 </div>
 
 
